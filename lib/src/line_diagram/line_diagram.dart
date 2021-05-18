@@ -4,7 +4,6 @@ import './grid/grid.dart';
 import './grid/grid_axis.dart';
 import './grid/helper_lines.dart';
 import './line/lines.dart';
-import '../general/legend.dart';
 
 class LineDiagram extends StatefulWidget {
   final Size size;

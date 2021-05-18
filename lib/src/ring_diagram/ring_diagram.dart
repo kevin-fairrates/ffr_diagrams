@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import './ring/ring.dart';
-import '../general/legend.dart';
 
 class RingDiagram extends StatefulWidget {
   final Size size;
