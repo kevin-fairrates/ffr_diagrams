@@ -27,6 +27,7 @@ in Ihrer Console aus.
 
 <br>
 Anschliessend können Sie das Package mit folgendem Importstatement verwenden:
+
 ```dart
 import 'package:ffr_diagrams/ffr_diagrams.dart';
 ```
