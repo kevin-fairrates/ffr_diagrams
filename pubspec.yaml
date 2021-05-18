@@ -1,6 +1,6 @@
 name: ffr_diagrams
 description: A flutter widget to display line- and ringdiagrams with or without animations
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/kevin-fairrates/ffr_diagrams
 repository: https://github.com/kevin-fairrates/ffr_diagrams
 
